@@ -1,1 +1,1 @@
-java -cp bin Main
+java -cp bin src.is.hi.osa16.hbv202g.ass3.frontend.Main
